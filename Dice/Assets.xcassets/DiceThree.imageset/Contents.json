@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "DiceThree.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
