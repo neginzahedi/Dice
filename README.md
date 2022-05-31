@@ -4,8 +4,10 @@ This is a simple one-page iOS app written in Swift 5 and designed with Storyboar
 - Array
 - randomElement()
 - IBAction
+- Auto-Layout 
+- Responsive UIs
 
-The app designed for iPhone11 simmulator.
+The app designed to run on all simulators.
 
 
 <h3 align="">
