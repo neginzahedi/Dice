@@ -11,5 +11,5 @@ The app designed to be responsive and run on all simulators.
 
 
 <h3 align="">
-<img src="simulatorScreenRecord.gif" height=500>
+<img src="simulator.gif" height=500 width="250">
 </h3>
