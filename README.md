@@ -7,7 +7,7 @@ This is a simple one-page iOS app written in Swift 5 and designed with Storyboar
 - Auto-Layout 
 - Responsive UIs
 
-The app designed to run on all simulators.
+The app designed to be responsive and run on all simulators.
 
 
 <h3 align="">
